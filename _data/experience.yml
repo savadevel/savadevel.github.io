@@ -1,19 +1,134 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# 
+- company: TopJava
+  position: Стажировка Spring 5/JPA Enterprise
+  duration: Январь 2021 &mdash; настоящее время
+  summary: "Разработка двух полнофункциональных Spring 5/JPA enterprise-приложениий c авторизацией и правами доступа на основе ролей
+<ul class='resume-item-list'>
+<li>Подсчет калорий. Проект размещен в облачном сервисе <a href='https://meal-callories-service.herokuapp.com/'>Heroku</a>, ведется на <a href='https://github.com/savadevel/topjava'>GitHub</a></li>
+<li>Cистема принятия решения - в каком ресторане пообедать. Проект ведется на <a href='https://github.com/savadevel/WhereToHaveLunch'>GitHub</a></li>
+</ul>
+Ключевые инструменты / технологии / программные средства: Java 8 (Stream, Time API), Spring (MVC, Security, Data JPA, Boot), Hibernate, Servlet, JSP/JSTL, REST(Jackson), AJAX, JUnit 5, JavaScript, Bootstrap, jQuery + plugins, PostgreSQL, HSQLDB, IntelliJ IDEA, Maven, Git, Tomcat, Heroku
+"
+#  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+#
+- company: Учебный центр при МГТУ им. Н.Э.Баумана
+  position: Профессиональная подготовка по направлению мобильная разработка под Android
+  duration: Август 2020 &mdash; Декабрь 2020
+  summary: "В формате очного обучения пройдена на отлично дипломная программа профессиональной подготовки: Разработчик мобильных приложений Android со знанием Kotlin 
+<br><br>
+Ключевой результат:
+<ul class='resume-item-list'>
+<li>опубликованное <a href='https://play.google.com/store/apps/details?id=ru.savadevel.mytranslator'>приложение</a> в GooglePlay</li>
+</ul>
+Ключевые инструменты / технологии / программные средства: Kotlin, Coroutine, RxJava, Retrofit, Okhttp, GSON, JSP/JSTL, JDBC, Hibernate, REST, Android Jetpack, Picasso, JUnit4, Mockito, LiveData, SQLite (Room), Realm, MySql, Android Studio, Gradle, Git, Tomcat
+"
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# 
+- company: Учебный центр при МГТУ им. Н.Э.Баумана
+  position: Профессиональная подготовка по направлению Enterprise Java-разработка
+  duration: Август 2020 &mdash; Декабрь 2020
+  summary: "В формате очного обучения пройдена на отлично дипломная программа профессиональной подготовки: Эксперт - разработчик Java
+<br><br>
+Ключевые результаты:
+<ul class='resume-item-list'>
+<li>опубликованные проекты на <a href='https://github.com/savadevel'>GitHub</a></li>
+<li><a href='https://javarush.ru/users/2393891'>41 уровень (максимальный)</a> на JavaRush, а также вхожу в TOP50 рейтинга 2020г.</li>
+</ul>
+Ключевые инструменты / технологии / программные средства: Java (Сore, Collections, Multithreading, JDBC, Swing), JavaFX, Java EE (Jakarta EE), JSP/JSTL, REST, Hibernate, Spring (MVC, Data JDBC, Data JPA), JUnit4, PostgreSQL, MySql, IntelliJ IDEA, Maven, Git, Tomcat, Nginx, Apache
+"
+
+# 
+- company: Банк ВТБ (ПАО)
+  position: Руководитель проекта
+  duration: Август 2019 &mdash; Август 2020
+  summary: "Организация и проведение процесса миграции клиентов (юридических лиц) с текущих систем дистанционного банковского обслуживания (ДБО) на новую платформу ДБО
+<br><br>
+Ключевые результаты:<ul class='resume-item-list'>
+<li>перевод большей части клиентов (более 70%) на актуальный сервис текущего ДБО</li>
+<li>разработан и апробирован процесс дистанционного подключения актуального сервиса клиентами, использующими устаревший сервис текущего ДБО</li>
+<li>разработана концепция Offline клиента нового ДБО</li>
+</ul>
+"
+
+# 
+- company: Государственная корпорация развития "ВЭБ.РФ"
+  position: Директор проектов
+  duration: Апрель 2010 &mdash; Май 2019
+  summary: "Управление портфелем проектов по созданию и развитию информационных систем (реализовано более 30 проектов), включая организацию и контроль разработки ПО, проведение испытаний, внедрение в эксплуатацию, проведение обучения пользователей
+<br><br>
+Ключевые результаты:<ul class='resume-item-list'>
+<li>реализованы стратегические ИТ-проекты Банка: <a href='https://veb.ru/biznesu/kliyentam/elektronnyy-ofis-klienta/'>Электронный офис клиента Банка</a>, <a href='https://veb.ru/press-tsentr/9758/'>Финансовая поддержка российского экспорта</a>, Территориально-распределенный проектный офис, Государственная гарантия</li>
+<li>вошел в число <a href='https://veb.ru/press-tsentr/10033/'>Лидеров перемен</a></li>
+<li>вошел в кадровый резерв Внешэкономбанка</li>
+<li>награжден дипломом О присвоении звания Лучший сотрудник года</li>
+</ul>
+"
+
+# 
+- company: Брокерский дом Гленик
+  position: Заместитель руководителя департамента автоматизированных торговых систем
+  duration: Ноябрь 2009 &mdash; Март 2010
+  summary: "Разработка и эксплуатация торговых роботов (Маркет-мейкерские, арбитражные, трендовые и др.) для ММВБ / MOEX и РТС / FORTS
+<br><br>
+Ключевые результаты:<ul class='resume-item-list'>
+<li>разработан робот для ММВБ, который позволил Компании занять место в рейтинге ведущих операторов ММВБ по акциям</li>
+<li>разработаны торговые роботы (HFT), которые позволяют иметь доходность выше фондовых индексов</li>
+</ul>
+Ключевые инструменты / технологии / программные средства: c/c++, wxWidgets, perl, STL, Boost, Windows Threads, MS SQL, MS Visual Studio .NET, CVS, QUIK, Wealth-Lab, MATLAB, NeuroSolutions, MTESRL.DLL, Plaza2, HFT / High-frequency trading, DMA, Colocation, торговые роботы, алгоритмическая торговля, реализация разработок под Windows
+"
+
+# 
+- company: ОАО "Московская страховая компания" (МСК)
+  position: Заместитель директора Департамента ИТ
+  duration: Октябрь 2008 &mdash; Июль 2009
+  summary: "Руководитель приоритетного для Компании проекта - внедрение основной страховой системы Компании и интеграция её с системой SAP. Координация работы департамента из 40 человек
+<br><br>
+Ключевые результаты:<ul class='resume-item-list'>
+<li>внедренная в рамках Проекта новая страховая система позволила Компании пересмотреть и оптимизировать бизнес-процессы</li>
+<li>кратное сокращение расходов Компании на ИТ за счет заключения договоров по аренде дорогостоящего серверного оборудования на этапах тестирования</li>
+</ul>
+"
+
+# 
+- company: Банк ВТБ (ПАО)
+  position: Заместитель начальника отдела
+  duration: Ноябрь 2004 &mdash; Октябрь 2008
+  summary: "Разработка ПО. Координация работы отдела из 11 человек
+<br><br>
+Ключевые результаты:<ul class='resume-item-list'>
+<li>разработана концепция/методология, которая стала стратегической основой проекта по внедрению автоматизированной системы Управленческого учета</li>
+<li>разработана и внедрена модель данных для централизованного учета и консолидированной обработки информации по банковским операциям</li>
+<li>разработан и внедрен Комплекс по автоматизации обязательной банковской отчетности (0409101, 0409115, 0409136, 0409155, 0409345)</li>
+</ul>
+Ключевые инструменты / технологии / программные средства: perl, Transact-SQL (T-SQL), JavaScript, VBA, VB, sockets (TCP, UDP), ODBC, ADO / DAO, протоколы сетевой аутентификации (Kerberos, NTLM), HTML, AJAX, CSS, MS SQL (хранимые процедуры, UDF, триггеры и представления, стабилизация плана оптимизации), MS Visual Studio .NET, SVN, реализация разработок под Windows
+"
+
+# 
+- company: Билайн
+  position: Инженер-программист
+  duration: Апрель 2004 &mdash; Июль 2004
+  summary: "Разработка архитектуры и сервисов для клиентов
+<br><br>
+Ключевые результаты:<ul class='resume-item-list'>
+<li>разработан модуль на c++ по мониторингу, который позволил внедрить новый сервис</li>
+<li>разработан модуль нагрузочного тестирования в виде Radius клиента, который позволил существенно сократить время тестирования - аутентификация (проверка подлинности) на Radius сервере</li>
+</ul>
+Ключевые инструменты / технологии / программные средства: c/c++, PL/SQL, powershell, perl, bash, sockets (TCP, UDP), Solaris / Windows Threads, forks/processe, синхронизация (mutex, /dev/poll), GUI (MFC, WinApi), MS Visual Studio .NET, gcc, CVS, реализация разработок под Solaris/Unix и Windows
+"
+
+# 
+- company: Thales Navigation
+  position: Инженер-программист
+  duration: Февраль 2000 &mdash; Январь 2004
+  summary: "Разработка ПО и инструментов, позволяющих проводить анализ новых перспективных сервисов в области спутниковой навигации (GPS, GLONASS)
+<br><br>
+Ключевые результаты:<ul class='resume-item-list'>
+<li>разработана стратегия интеграции и интеграция в firmware навигационного приемника расчетного ядра, используемого для postprocessing’а, что позволило значительно улучшить точностные характеристики приемника</li>
+<li>разработана распределенная система сбора и анализа данных по принципу конвейера, которая помогла существенно сократить время получения результирующего отчета</li>
+</ul>
+Ключевые инструменты / технологии / программные средства: c/c++, powershell, perl, bash, assembler, sockets (TCP, UDP), pipes, коммуникационные порты (COM, LPT), POSIX Threads, Windows Threads, forks/processes, синхронизация (mutex, semaphores, CriticalSections, sockets, pipes, shared memory), GUI (MFC, WinApi), RTOS CMX для ARM, MS Visual Studio .NET, gcc, реализация разработок под Linux/Unix и Windows
+"
+

@@ -1,13 +1,25 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Разработчик мобильных приложений Android со знанием Kotlin 
+  uni: Учебный Центр «Специалист» при МГТУ им. Н.Э.Баумана
+  year: 2020
+  award: Диплом с отличием
+#  awards: Диплом с отличием
+#    - award: Диплом с отличием
+#  summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Эксперт - разработчик Java. Диплом с отличием
+  uni: Учебный Центр «Специалист» при МГТУ им. Н.Э.Баумана
+  year: 2020
+  award: Диплом с отличием
+
+- degree: Инженер
+  uni: Московский авиационный институт (МАИ)
+  year: 2002
+  award: Диплом с отличием (красный)
+  summary: Экономика предприятия/Экономика и управление на предприятии
+
+- degree: Инженер
+  uni: Московский авиационный институт (МАИ)
+  year: 2002
+  award: Диплом с отличием (красный)
+  summary: Радиоэлектроника летательных аппаратов/Радиоэлектронные системы

@@ -42,6 +42,17 @@
   .header-contact-info {
     @include sans;
     text-align: center;
+	
+	a[href^="https://t.me/savadus"] { 
+    	font-weight: 700;
+      	color: #333;
+	}
+	a { 
+		text-decoration: none;
+	}
+	a:hover { 
+		text-decoration: underline; 
+	} 
   }
   .header-contact-info p a {
     color: inherit;
@@ -101,7 +112,13 @@
       fill: #333;
       @include transition(all .2s ease);
     }
+    &:hover .icon-telegram rect {
+      fill: #333;
+      @include transition(all .2s ease);
+    }
+
   }
+
 
   .icon {
     height: 28px;
@@ -143,6 +160,15 @@
     font-size: 1.5rem;
     letter-spacing: -.05rem;
     line-height: 1;
+
+	a { 
+		text-decoration: none;
+	}
+
+	a:hover { 
+		text-decoration: underline; 
+	} 
+
   }
 
   .resume-item-details {
@@ -192,6 +218,14 @@
       color: #333;
     }
   }
+
+	a { 
+		text-decoration: none;
+	}
+
+	a:hover { 
+		text-decoration: underline; 
+	} 
 }
 
 .print-only { display: none !important }
