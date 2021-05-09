@@ -1,30 +1,35 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Java-разработчик корпоративных приложений
+- organization: <a href='https://cloud.mail.ru/public/Hchg/AQCV7aiBV'>Java-разработчик корпоративных приложений</a>
   role: TopJava
   year: 2021
 
-- organization: Программирование IBM MQ и IBM DataPower
+- organization: Программирование <a href='https://cloud.mail.ru/public/raZg/obr3LEyQz'>IBM MQ</a> и <a href='https://cloud.mail.ru/public/cD6B/M8hyG5yzm'>IBM DataPower</a>
   role: IBM Cloud
   year: 2017
 
+#- organization: "<a href='https://cloud.mail.ru/public/X1NY/PcBoHGutJ'>Дизайн-мышление: от инсайтов к инновациям</a>"
 - organization: "Дизайн-мышление: от инсайтов к инновациям"
   role: Корпоративный университет Сбербанка
   year: 2016
 
+#- organization: <a href='https://cloud.mail.ru/public/78uQ/suMeXfxap'>Методология Scrum для управления проектами по разработке ПО</a>
 - organization: Методология Scrum для управления проектами по разработке ПО
   role: Компания PM Expert
   year: 2015
 
+#- organization: <a href='https://cloud.mail.ru/public/YHWv/cdAwn13EA'>Управление проектами на основе стандарта PMI PMBOK® Guide 6th Edition</a>
 - organization: Управление проектами на основе стандарта PMI PMBOK® Guide 6th Edition
   role: Компания PM Expert
   year: 2015
 
+#- organization: <a href='https://cloud.mail.ru/public/jka6/LpUd9Y7Gw'>Отработка навыков проектного менеджмента</a>
 - organization: Отработка навыков проектного менеджмента
   role: Компания PM Expert
   year: 2015
 
+#- organization: <a href='https://cloud.mail.ru/public/qRzv/ZoV88srTi'>Использование MS Project Professional и MS Project Server</a>
 - organization: Использование MS Project Professional и MS Project Server
   role: Компания PM Expert
   year: 2015

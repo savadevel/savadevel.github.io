@@ -16,7 +16,7 @@
 Стек ключевых инструментов / технологий / программных средств: Java 8 (Stream, Time API), Spring (MVC, Security, Data JPA), Hibernate, Servlet, JSP/JSTL, REST(Jackson), AJAX, JUnit 5, JavaScript, Bootstrap, jQuery + plugins, PostgreSQL, HSQLDB, IntelliJ IDEA, Maven, Git, Tomcat, Heroku"
 
 - project: Словарик
-  role: Программист
+  role: Технолог / архитектор / дизайнер / программист
   duration: 2020
   url: "https://play.google.com/store/apps/details?id=ru.savadevel.mytranslator"
   description: "Мобильное приложение опубликовано в магазине приложений Google Play Store.<br>
@@ -53,13 +53,14 @@
   role: Руководитель проекта / технолог / архитектор / программист
   duration: 2011
   #url: "https://github.com/savadevel"
-  description: "HFT, маркет-мейкерские, арбитражные, трендовые и др. торговые роботы для ММВБ / MOEX и РТС / FORTS. Стек ключевых инструментов / технологий / программных средств: c/c++, wxWidgets, perl, STL, Windows Threads, MS SQL, MS Visual Studio .NET, QUIK, Wealth-Lab, MATLAB, NeuroSolutions, MTESRL.DLL, Plaza2, HFT / High-frequency trading, DMA, Colocation, торговые роботы, алгоритмическая торговля, реализация под Windows"
+  description: "HFT, маркет-мейкерские, арбитражные, трендовые и др. торговые роботы для ММВБ / MOEX и РТС / FORTS. <br>
+Стек ключевых инструментов / технологий / программных средств: c/c++, wxWidgets, perl, STL, Windows Threads, MS SQL, MS Visual Studio .NET, QUIK, Wealth-Lab, MATLAB, NeuroSolutions, MTESRL.DLL, Plaza2, HFT / High-frequency trading, DMA, Colocation, торговые роботы, алгоритмическая торговля, реализация под Windows"
 
 - project: Комплекс по автоматизации обязательной банковской отчетности
   role: Руководитель проекта / технолог / архитектор / программист
   duration: 2008
   #url: "https://github.com/savadevel"
-  description: "Комплекс позволяет формализовать процесс автоматизации сложной отчетности до сравнительно простых XML инструкций, указывающих ядру Комплекса правила формирования отчетности (формы: 0409101, 0409115, 0409136, 0409155, 0409345). Комплекс имеет 3-х уровневую архитектуру (HTML, JavaScript, Apache, perl, MSSQL), а также соответствует внутренним требованиям безопасности Банка. <br>
+  description: "Комплекс позволяет формализовать процесс автоматизации сложной отчетности до сравнительно простых XML инструкций, указывающих ядру Комплекса правила формирования отчетности (формы: 0409101, 0409115, 0409136, 0409155, 0409345). Комплекс имеет 3-х уровневую архитектуру (HTML, JavaScript, Apache, perl, MS SQL), а также соответствует внутренним требованиям безопасности Банка. <br>
 Стек ключевых инструментов / технологий / программных средств: perl, Transact-SQL (T-SQL), JavaScript, ADO / DAO, протоколы сетевой аутентификации (Kerberos, NTLM), HTML, AJAX, CSS, MS SQL (хранимые процедуры, UDF, триггеры и представления, стабилизация плана оптимизации), MS Visual Studio.NET, SVN, реализация под Windows"
 
 - project: Модуль мониторинга информации на удалённых серверах 
@@ -73,7 +74,7 @@
   role: Технолог / архитектор / программист
   duration: 2004
   #url: ""
-  description: "Модуль нагрузочного тестирования в виде Radius клиента, создающего pool рабочих потоков, которые подключаются к серверу и пытаются авторизоваться. На выходе формируется статистика работы<br>
+  description: "Модуль нагрузочного тестирования в виде Radius клиента, создающего pool рабочих потоков, которые подключаются к серверу и пытаются авторизоваться. На выходе формируется статистика работы.<br>
 Стек ключевых инструментов / технологий / программных средств: c/c++, Radius, sockets (TCP, UDP), solaris threads, forks/processe, синхронизация (mutex, /dev/poll), gcc, CVS, реализация под Solaris/Unix"
 
 - project: Cистема сбора и анализа данных (по принципу "конвейера") от GPS–приемников
