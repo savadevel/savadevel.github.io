@@ -9,7 +9,7 @@
   description: MS SQL, PostgreSQL, MySQL, HSQLDB
 
 - skill: Технологии
-  description: Servlet, JSP/JSTL, REST, JDBC, JPA, AJAX
+  description: Servlet, JSP/JSTL, REST, JDBC, JPA, AJAX, JMX
 
 - skill: Инструменты
   description: Git, Maven, Docker, IntelliJ IDEA
