@@ -47,14 +47,14 @@
   duration: 2011 
   #url: ""
   description: "Имитация биржевых торгов для тестирования торговых стратегий.<br>
-Стек ключевых инструментов / технологий / программных средств: c/c++, sockets (TCP, UDP), GUI (MFC), Windows Threads, синхронизация (CriticalSections), MS Visual Studio .NET, реализация под Windows"
+Стек ключевых инструментов / технологий / программных средств: c/c++, sockets (TCP, UDP), Windows Threads, синхронизация (CriticalSections), MTESRL.DLL, MS Visual Studio .NET, реализация под Windows"
 
 - project: Платформа торговых роботов
   role: Руководитель проекта / технолог / архитектор / программист
   duration: 2011
   #url: "https://github.com/savadevel"
   description: "HFT, маркет-мейкерские, арбитражные, трендовые и др. торговые роботы для ММВБ / MOEX и РТС / FORTS. <br>
-Стек ключевых инструментов / технологий / программных средств: c/c++, wxWidgets, perl, STL, Windows Threads, MS SQL, MS Visual Studio .NET, QUIK, Wealth-Lab, MATLAB, NeuroSolutions, MTESRL.DLL, Plaza2, HFT / High-frequency trading, DMA, Colocation, торговые роботы, алгоритмическая торговля, реализация под Windows"
+Стек ключевых инструментов / технологий / программных средств: c/c++, wxWidgets, perl, Windows Threads, синхронизация (CriticalSections), MS SQL, MS Visual Studio .NET, QUIK, Wealth-Lab, MATLAB, NeuroSolutions, MTESRL.DLL, Plaza2, HFT / High-frequency trading, DMA, Colocation, торговые роботы, алгоритмическая торговля, реализация под Windows"
 
 - project: Комплекс по автоматизации обязательной банковской отчетности
   role: Руководитель проекта / технолог / архитектор / программист
