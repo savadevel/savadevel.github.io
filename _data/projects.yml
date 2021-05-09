@@ -1,16 +1,97 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Cистема принятия решения - в каком ресторане пообедать
+  role: Технолог / архитектор / программист
+  duration: 2021
+  #url: "https://wthl.herokuapp.com/"
+  description: "Проект ведется на <a href='https://github.com/savadevel/WhereToHaveLunch'>GitHub</a>.<br>
+Стек ключевых инструментов / технологий / программных средств: Java, Spring (MVC, Security, Data JPA), Hibernate, REST(Jackson), JUnit 5, HSQLDB, IntelliJ IDEA, Maven, Git, Tomcat"
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Подсчет калорий
+  role: Программист
+  duration: 2021
+  url: "https://meal-callories-service.herokuapp.com/"
+  description: "Проект размещен в облачном сервисе Heroku, ведется на <a href='https://github.com/savadevel/topjava'>GitHub</a>.<br>
+Стек ключевых инструментов / технологий / программных средств: Java 8 (Stream, Time API), Spring (MVC, Security, Data JPA), Hibernate, Servlet, JSP/JSTL, REST(Jackson), AJAX, JUnit 5, JavaScript, Bootstrap, jQuery + plugins, PostgreSQL, HSQLDB, IntelliJ IDEA, Maven, Git, Tomcat, Heroku"
+
+- project: Словарик
+  role: Программист
+  duration: 2020
+  url: "https://play.google.com/store/apps/details?id=ru.savadevel.mytranslator"
+  description: "Мобильное приложение опубликовано в магазине приложений Google Play Store.<br>
+Стек ключевых инструментов / технологий / программных средств: Kotlin, RxJava, Retrofit, GSON, REST, Realm, Android Studio, Gradle, Git"
+
+- project: Электронный офис клиента Банка (ВЭБ.РФ)
+  role: Руководитель проекта / технолог / архитектор
+  duration: 2017
+  url: "https://veb.ru/biznesu/kliyentam/elektronnyy-ofis-klienta/"
+  description: "Стек ключевых инструментов / технологий / программных средств: C#, JavaScript, IBM MQ, IBM DataPower, микросервисы / web services, SOAP, REST, КриптоПро, средства подписания документов (УКЭП / КЭП, УНЭП / НЭП, CAdES BES / XAdES BES, CAdES-T / XAdES-T, CAdES-X Long Type 1/XAdES-X Long Type 1, OCSP, CRL / COC)"
+
+- project: Финансовая поддержка российского экспорта
+  role: Руководитель проекта / технолог / архитектор
+  duration: 2016
+  url: "https://veb.ru/press-tsentr/9758/"
+  description: "Разработка системы включена в перечень стратегических ИТ-проектов ВЭБ.РФ<br>
+Стек ключевых инструментов / технологий / программных средств: Java, JavaScript, Prognoz (GreenData), Курьер-Шлюз"
+
+- project: Территориально-распределенный проектный офис
+  role: Руководитель проекта / технолог / архитектор
+  duration: 2016
+  url: "https://veb.ru/press-tsentr/9758/"
+  description: "Разработка системы включена в перечень стратегических ИТ-проектов ВЭБ.РФ<br>
+Стек ключевых инструментов / технологий / программных средств: Microsoft SharePoint, JavaScript"
+
+- project: Территориально-распределенный проектный офис
+  role: Руководитель проекта / технолог / архитектор
+  duration: 2016
+  #url: ""
+  description: "Разработка системы включена в перечень стратегических ИТ-проектов ВЭБ.РФ<br>
+Стек ключевых инструментов / технологий / программных средств: Microsoft SharePoint, JavaScript"
+
+- project: Cимулятор биржевых торгов
+  role: Руководитель проекта / технолог / архитектор / программист
+  duration: 2011 
+  #url: ""
+  description: "Имитация биржевых торгов для тестирования торговых стратегий.<br>
+Стек ключевых инструментов / технологий / программных средств: c/c++, sockets (TCP, UDP), GUI (MFC), Windows Threads, синхронизация (CriticalSections), MS Visual Studio .NET, реализация под Windows"
+
+- project: Платформа торговых роботов
+  role: Руководитель проекта / технолог / архитектор / программист
+  duration: 2011
+  #url: "https://github.com/savadevel"
+  description: "HFT, маркет-мейкерские, арбитражные, трендовые и др. торговые роботы для ММВБ / MOEX и РТС / FORTS. Стек ключевых инструментов / технологий / программных средств: c/c++, wxWidgets, perl, STL, Windows Threads, MS SQL, MS Visual Studio .NET, QUIK, Wealth-Lab, MATLAB, NeuroSolutions, MTESRL.DLL, Plaza2, HFT / High-frequency trading, DMA, Colocation, торговые роботы, алгоритмическая торговля, реализация под Windows"
+
+- project: Комплекс по автоматизации обязательной банковской отчетности
+  role: Руководитель проекта / технолог / архитектор / программист
+  duration: 2008
+  #url: "https://github.com/savadevel"
+  description: "Комплекс позволяет формализовать процесс автоматизации сложной отчетности до сравнительно простых XML инструкций, указывающих ядру Комплекса правила формирования отчетности (формы: 0409101, 0409115, 0409136, 0409155, 0409345). Комплекс имеет 3-х уровневую архитектуру (HTML, JavaScript, Apache, perl, MSSQL), а также соответствует внутренним требованиям безопасности Банка. <br>
+Стек ключевых инструментов / технологий / программных средств: perl, Transact-SQL (T-SQL), JavaScript, ADO / DAO, протоколы сетевой аутентификации (Kerberos, NTLM), HTML, AJAX, CSS, MS SQL (хранимые процедуры, UDF, триггеры и представления, стабилизация плана оптимизации), MS Visual Studio.NET, SVN, реализация под Windows"
+
+- project: Модуль мониторинга информации на удалённых серверах 
+  role: Технолог / архитектор / программист
+  duration: 2004
+  #url: ""
+  description: "Модуль работающий демоном на Solaris, задача которого мониторинг наличия новой информации на удалённых серверах выгрузка по FTP, архивирование, предварительная подготовка и последующий экспорт в БД с последующим вызовом хранимой процедуры для дальнейшей обработки информации. <br>
+Стек ключевых инструментов / технологий / программных средств: c/c++, PL/SQL, bash, sockets (TCP, UDP), solaris threads, forks/processe, синхронизация (mutex, /dev/poll), gcc, CVS, реализация под Solaris/Unix"
+
+- project: Модуль нагрузочного тестирования
+  role: Технолог / архитектор / программист
+  duration: 2004
+  #url: ""
+  description: "Модуль нагрузочного тестирования в виде Radius клиента, создающего pool рабочих потоков, которые подключаются к серверу и пытаются авторизоваться. На выходе формируется статистика работы<br>
+Стек ключевых инструментов / технологий / программных средств: c/c++, Radius, sockets (TCP, UDP), solaris threads, forks/processe, синхронизация (mutex, /dev/poll), gcc, CVS, реализация под Solaris/Unix"
+
+- project: Cистема сбора и анализа данных (по принципу "конвейера") от GPS–приемников
+  role: Технолог / архитектор / программист
+  duration: 2004
+  #url: "https://github.com/savadevel"
+  description: "Стек ключевых инструментов / технологий / программных средств: c/c++, sockets (TCP, UDP), GUI (WinApi), коммуникационные порты (COM, LPT), Windows Threads, синхронизация (CriticalSections, sockets, shared memory), MS Visual Studio.NET, реализация под Windows"
+
+- project: Cимулятор работы GPS–приемника
+  role: Технолог / архитектор / программист
+  duration: 2004
+  #url: "https://github.com/savadevel"
+  description: "Имитация функциональности навигационных приемников: FKP (in German: Flachen-Korrektur-Parameter), RTK.<br>
+Стек ключевых инструментов / технологий / программных средств: c/c++, sockets (TCP, UDP), GUI (MFC), Windows Threads, синхронизация (CriticalSections), MS Visual Studio .NET, реализация под Windows"

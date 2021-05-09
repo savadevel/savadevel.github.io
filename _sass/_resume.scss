@@ -43,10 +43,6 @@
     @include sans;
     text-align: center;
 	
-	a[href^="https://t.me/savadus"] { 
-    	font-weight: 700;
-      	color: #333;
-	}
 	a { 
 		text-decoration: none;
 	}
@@ -154,6 +150,8 @@
 
   .resume-item { margin-bottom: 2rem; }
 
+  .resume-item-qualification { margin-bottom: 1rem; }
+
   .resume-item-title {
     @include sans_bold;
     margin: 0 0 .75rem;
@@ -181,6 +179,16 @@
     }
   }
 
+  .resume-item-details-qualification {
+    font-size: 1.125rem;
+    margin: 0 0 0;
+    line-height: 1;
+
+    &.award-title {
+      font-size: 1rem;
+    }
+  }
+
   .resume-item-title,
   .resume-item-details,
   .resume-item-copy,
@@ -198,6 +206,9 @@
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
+
+  .resume-item-copy-qualification { margin: 0 0 0; }
+
 }
 
 // footer styles

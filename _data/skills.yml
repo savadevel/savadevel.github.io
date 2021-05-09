@@ -3,10 +3,10 @@
   description: Java, Kotlin, JavaScript, c/c++, perl, SQL
 
 - skill: Java Frameworks
-  description: Java 8 (Time API, Streams), Spring (MVC, Security, JDBC, Data JPA, Boot), JPA (Hibernate), JUnit
+  description: Java (Thread, Time API, Streams), Spring (MVC, Security, JDBC, Data JPA, Boot), JPA (Hibernate), JUnit
 
 - skill: DB
-  description: MS-SQL, PostgreSQL, MySQL, HSQLDB
+  description: MS SQL, PostgreSQL, MySQL, HSQLDB
 
 - skill: Технологии
   description: Servlet, JSP/JSTL, REST, JDBC, JPA, AJAX

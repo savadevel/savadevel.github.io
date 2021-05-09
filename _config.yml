@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Денис Науменко"
-resume_title:                   "Java / Kotlin – разработчик (финтех, создание и интеграция сервисов)"
+resume_title:                   "Java / Kotlin разработчик (финтех)"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "d.s.naumenko@gmail.com"
@@ -33,6 +33,7 @@ resume_header_intro: "
 <li>Совокупный опыт в ИТ более 15 лет</li>
 <li>Прикладной опыт работы, связанный с технологическими, инновационными проектами в области ИТ и спутниковой навигации (GPS, ГЛОНАСС)</li> 
 <li>Принимал участие в анализе перспективных направлении, совместной разработке новых сервисов для европейского и американского рынка (командировки в США, Францию и Германию)</li>
+<li><a href='https://javarush.ru/users/2393891'>41 уровень (максимальный)</a> на JavaRush, на 2020г. входил в TOP50 рейтинга 'за все время'</li>
 <li>Навыки управления проектами на всех этапах (сроки, риски, качество, стоимость, рентабельность)</li>
 </ul>"
 
@@ -46,7 +47,7 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        false
+resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           false

@@ -3,6 +3,7 @@
   uni: Учебный Центр «Специалист» при МГТУ им. Н.Э.Баумана
   year: 2020
   award: Диплом с отличием
+  summary: "Содержание программы обучения: Kotlin, Coroutine, RxJava, Retrofit, Okhttp, GSON, JSP/JSTL, JDBC, Hibernate, REST, Android Jetpack, Picasso, JUnit4, Mockito, LiveData, SQLite (Room), Realm, MySql, Android Studio, Gradle, Git, Tomcat"
 #  awards: Диплом с отличием
 #    - award: Диплом с отличием
 #  summary: If you had any meaningful roles at college, feel free to write about them here
@@ -11,6 +12,7 @@
   uni: Учебный Центр «Специалист» при МГТУ им. Н.Э.Баумана
   year: 2020
   award: Диплом с отличием
+  summary: "Содержание программы обучения: Java (Сore, Collections, Multithreading, JDBC, Swing), JavaFX, Java EE (Jakarta EE), JSP/JSTL, REST, Hibernate, Spring (MVC, Data JDBC, Data JPA), JUnit4, PostgreSQL, MySql, IntelliJ IDEA, Maven, Git, Tomcat, Nginx, Apache"
 
 - degree: Инженер
   uni: Московский авиационный институт (МАИ)
