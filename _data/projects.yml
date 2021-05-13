@@ -12,7 +12,7 @@
   role: Программист
   duration: 2021
   url: "https://meal-callories-service.herokuapp.com/"
-  description: "Проект размещен в облачном сервисе Heroku, ведется на <a href='https://github.com/savadevel/topjava'>GitHub</a>.<br>
+  description: "Проект размещен в облачном сервисе Heroku, ведется на <a href='https://github.com/savadevel/calories-management'>GitHub</a>.<br>
 Стек ключевых инструментов / технологий / программных средств: Java 8 (Stream, Time API), Spring (MVC, Security, Data JPA), Hibernate, Servlet, JSP/JSTL, REST(Jackson), AJAX, JUnit 5, JavaScript, Bootstrap, jQuery + plugins, PostgreSQL, HSQLDB, IntelliJ IDEA, Maven, Git, Tomcat, Heroku"
 
 - project: Словарик

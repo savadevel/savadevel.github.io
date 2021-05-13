@@ -5,9 +5,9 @@
   duration: Январь 2021 &mdash; настоящее время
   summary: "Участие в разработке Spring/JPA Enterprise приложения
 <ul class='resume-item-list'>
-<li>Реализация сохранения в базы Postgres и HSQLDB на основе Spring (JBDC, Data JPA)</li>
-<li>Реализация и тестирование REST и AJAX контроллеров</li>
-<li>Реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins</li>
+<li>реализация сохранения в базы Postgres и HSQLDB на основе Spring (JBDC, Data JPA)</li>
+<li>реализация и тестирование REST и AJAX контроллеров</li>
+<li>реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins</li>
 </ul>
 "
 
