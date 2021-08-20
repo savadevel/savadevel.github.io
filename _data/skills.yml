@@ -3,7 +3,7 @@
   description: Java, Kotlin, JavaScript, c/c++, perl, SQL
 
 - skill: Java Frameworks
-  description: Java (Multithreading, Time API, Streams), Spring (MVC, Security, JDBC, Data JPA, Boot), JPA (Hibernate), JUnit
+  description: Java (Multithreading, Time API, Streams), Spring (MVC, Security, JDBC, Data JPA, Boot), JPA (Hibernate), JUnit, TestNG
 
 - skill: DB
   description: MS SQL, PostgreSQL, MySQL, HSQLDB
