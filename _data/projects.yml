@@ -1,5 +1,10 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: Кредитование на Pos-терминалах
+  role: Программист
+  duration: 2021
+  #url: "https://wthl.herokuapp.com/"
+  description: "Стек ключевых инструментов / технологий / программных средств: Java8, Spring Framework, TestNG, REST(Jackson), IntelliJ IDEA, Maven, Bitbucket, Jetty, WAS, Jenkins"
 
 - project: Cистема принятия решения - в каком ресторане пообедать
   role: Технолог / архитектор / программист
