@@ -13,11 +13,13 @@
 - company: Проектная работа
   position: Java-разработчик
   duration: Август 2020 &mdash; Май 2021
-  summary: "<ul class='resume-item-list'>
-<li>участие в разработке архитектуры, выборе технологий</li>
-<li>разработка Spring/JPA Enterprise приложений и мобильных приложений на Kotlin</li>
-<li>unit-тестирование</li>
-<li>публикация разработок в GitHub и магазине приложений Google Play Store</li>
+  summary: "Участие в разработке архитектуры, выборе технологий. Разработка Spring/JPA Enterprise приложений и мобильных приложений на Kotlin. Публикация разработок в GitHub и магазине приложений Google Play Store
+<ul class='resume-item-list'>
+<br><br>
+Ключевые результаты:<ul class='resume-item-list'>
+<li>разработана система голосования и принятия решения - выбор ресторана для обеда. Проект ведется на <a href='https://github.com/savadevel/WhereToHaveLunch'>GitHub</a></li>
+<li>разработано приложение "Подсчет калорий". Приложение доступно в облачном сервисе <a href='https://meal-callories-service.herokuapp.com/'>Heroku</a>, проект ведется на <a href='https://meal-callories-service.herokuapp.com/'>GitHub</a></li>
+<li>разработано Android приложение для перевода слов / текста с русского на английский и обратно. Приложение доступно в магазине приложений <a href='https://play.google.com/store/apps/details?id=ru.savadevel.mytranslator'>Google Play Store</a></li>
 </ul>
 "
 
